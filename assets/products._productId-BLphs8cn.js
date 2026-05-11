@@ -1,0 +1,1 @@
+import{k as n,j as e}from"./index-C4yTn4OI.js";const a=({error:t,reset:r})=>{const s=n();return e.jsxs("div",{className:"container-xl py-24 text-center",children:[e.jsx("p",{className:"text-destructive mb-4",children:t.message}),e.jsx("button",{onClick:()=>{s.invalidate(),r()},className:"btn-primary",children:"Retry"})]})};export{a as errorComponent};
